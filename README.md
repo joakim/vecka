@@ -1,5 +1,5 @@
-# vecka.io - Vilken vecka är det?
+# uke.io - Hvilken uke er det?
 
-En klon av vecka.nu som gör veckorna bättre.
+En klon av vecka.nu som gjør ukene bedre, på norsk.
 
-[vecka.io](http://vecka.io)
+[uke.io](http://uke.io)
